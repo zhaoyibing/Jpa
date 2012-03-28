@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/com/xiaobing/one2many
+END
+one2many.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/com/xiaobing/one2many/one2many.txt
+END
+OrderItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/com/xiaobing/one2many/OrderItem.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/com/xiaobing/one2many/Order.java
+END

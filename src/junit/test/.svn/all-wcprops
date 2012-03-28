@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/junit/test
+END
+AirLineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/junit/test/AirLineTest.java
+END
+One2OneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/junit/test/One2OneTest.java
+END
+PersonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/junit/test/PersonTest.java
+END
+One2ManyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/junit/test/One2ManyTest.java
+END
+many2manyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring_security/!svn/ver/137/branches/Jpa/src/junit/test/many2manyTest.java
+END
