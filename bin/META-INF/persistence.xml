@@ -13,6 +13,7 @@
 			<property name="hibernate.connection.url"
 				value="jdbc:mysql://localhost:3306/jpa?useUnicode=true&amp;characterEncoding=utf-8 " />
 			<property name="hibernate.show_sql" value="true" />
+			<property name="hibernate.format_sql" value="true"/>
 		</properties>
 	</persistence-unit>
 	<persistence-unit name="jpa2" transaction-type="RESOURCE_LOCAL">

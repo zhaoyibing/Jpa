@@ -1,6 +1,0 @@
-1, 
-	对于OneToMany annotation， to 后面如果是many， 则默认的延迟加载为  fetch=FetchType.LAZY， 如果to后面是one， 默认为fetch=FetchType.EAGER
-2,
-	对于一对多关系, jpa中默认是由多的一方来维护外键关系
-3,
-	OneToMany,manytoone, onetoone == annotation中，出现 mappedBy的一方为关系的被维护端;optional 
